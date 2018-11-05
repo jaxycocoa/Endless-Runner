@@ -15,11 +15,11 @@
                 "mvc": "1.0",
                 "IsDnD": true,
                 "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-                "enumb": 10,
+                "enumb": 5,
                 "eventtype": 0,
                 "m_owner": "939a1efd-87c1-428b-b870-201cf42cdf5d"
             },
-            "moment": 10
+            "moment": 5
         }
     ]
 }
